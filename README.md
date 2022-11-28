@@ -181,6 +181,8 @@ See the [big comparison table](sql-based.md).  It covers
 | [XMLStarlet](http://xmlstar.sourceforge.net/overview.php) | Query, modify, and validate XML documents. |
 | [xq](https://github.com/kislyuk/yq) | [jq](#json) wrapper for XML documents. |
 | [xsltproc](http://xmlsoft.org/XSLT/xsltproc2.html) | Transform XML documents using [XSLT](https://www.w3.org/TR/xslt) and [EXSLT](http://exslt.org). |
+| [xpe](https://github.com/charmparticle/xpe) | A commandline xpath parser that is simple and easy to use |
+
 
 ### See also
 
